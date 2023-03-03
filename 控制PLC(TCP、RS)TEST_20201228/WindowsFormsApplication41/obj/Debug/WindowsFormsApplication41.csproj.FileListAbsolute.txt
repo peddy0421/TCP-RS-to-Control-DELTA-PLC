@@ -1,0 +1,171 @@
+c:\users\redfish\documents\visual studio 2015\Projects\WindowsFormsApplication41\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+c:\users\redfish\documents\visual studio 2015\Projects\WindowsFormsApplication41\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+c:\users\redfish\documents\visual studio 2015\Projects\WindowsFormsApplication41\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+c:\users\redfish\documents\visual studio 2015\Projects\WindowsFormsApplication41\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+c:\users\redfish\documents\visual studio 2015\Projects\WindowsFormsApplication41\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\bin\Debug\MySql.Data.dll
+C:\Users\RedFish\Desktop\C#-PLC_20170410_未完成 - 複製\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\MySql.Data.dll
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\RedFish\Desktop\20170413-V2_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+D:\雲端\JD實驗室\實驗室\01.通訊\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+D:\雲端\JD實驗室\實驗室\01.通訊\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+D:\雲端\JD實驗室\實驗室\01.通訊\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\MySql.Data.dll
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\RedFish\Desktop\20170416-V3_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版)\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V2)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V2)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V2)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V2)\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V2)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V2)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V2)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V2)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V2)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V2)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V3)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V3)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V3)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V3)\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V3)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V3)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V3)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V3)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V3)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\jdlab\Desktop\20170516-V4_PLC-TCP-RS232-MySQL(測試版-V3)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\jdlab\Desktop\20170522-V4_PLC-TCP-RS232-MySQL(測試版-V4)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\jdlab\Desktop\20170522-V4_PLC-TCP-RS232-MySQL(測試版-V4)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\jdlab\Desktop\20170522-V4_PLC-TCP-RS232-MySQL(測試版-V4)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\jdlab\Desktop\20170522-V4_PLC-TCP-RS232-MySQL(測試版-V4)\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\jdlab\Desktop\20170522-V4_PLC-TCP-RS232-MySQL(測試版-V4)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+C:\Users\jdlab\Desktop\20170522-V4_PLC-TCP-RS232-MySQL(測試版-V4)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\jdlab\Desktop\20170522-V4_PLC-TCP-RS232-MySQL(測試版-V4)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\jdlab\Desktop\20170522-V4_PLC-TCP-RS232-MySQL(測試版-V4)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\jdlab\Desktop\20170522-V4_PLC-TCP-RS232-MySQL(測試版-V4)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\jdlab\Desktop\20170522-V4_PLC-TCP-RS232-MySQL(測試版-V4)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\jdlab\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\jdlab\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\jdlab\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\jdlab\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\jdlab\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+C:\Users\jdlab\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\jdlab\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\jdlab\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\jdlab\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\jdlab\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\Red-Fish\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\Red-Fish\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\Red-Fish\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\Red-Fish\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\Red-Fish\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\Red-Fish\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\Red-Fish\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+C:\Users\Red-Fish\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\Red-Fish\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\Red-Fish\Desktop\20170525-V5_PLC-TCP-RS232-MySQL\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\Red-Fish\Desktop\20170811_對PLC控制(TCP、RS)\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\Red-Fish\Desktop\20170811_對PLC控制(TCP、RS)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\Red-Fish\Desktop\20170811_對PLC控制(TCP、RS)\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+G:\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+G:\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+G:\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+G:\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+G:\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+G:\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+G:\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojResolveAssemblyReference.cache
+G:\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+G:\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+G:\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.Cache
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojAssemblyReference.cache
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.cache
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.CoreCompileInputs.cache
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.CopyComplete
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20170811\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojAssemblyReference.cache
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.cache
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.CoreCompileInputs.cache
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.CopyComplete
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\01a04\Desktop\對PLC控制(TCP、RS)_20190528\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojAssemblyReference.cache
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.cache
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.CoreCompileInputs.cache
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.CopyComplete
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+C:\Users\peddy\Desktop\C# _ PLC 交接_通訊模組\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe.config
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.exe
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\bin\Debug\WindowsFormsApplication41.pdb
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\bin\Debug\MySql.Data.xml
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csprojAssemblyReference.cache
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Form1.resources
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.Properties.Resources.resources
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.GenerateResource.cache
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.CoreCompileInputs.cache
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.csproj.CopyComplete
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.exe
+D:\晏\碩零人生啊\modbus通訊\控制PLC(TCP、RS)TEST_20201228\WindowsFormsApplication41\obj\Debug\WindowsFormsApplication41.pdb
